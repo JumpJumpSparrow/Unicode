@@ -1,9 +1,8 @@
 //
 //  NSString+Unicode.m
-//  OShopping
 //
 //  Created by SuperDanny on 15/5/7.
-//  Copyright (c) 2015年 libiwu. All rights reserved.
+//  Copyright (c) 2015年 Danny_Changhui. All rights reserved.
 //
 
 #import "NSString+Unicode.h"
